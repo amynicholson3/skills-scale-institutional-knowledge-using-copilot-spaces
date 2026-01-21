@@ -42,7 +42,7 @@ Our project management approach is built on these foundational principles:
 **Communication**: Weekly status updates, risk registers, decision logs, project boards
 
 ### Product Manager (PdM)
-**Defines what should be built to deliver customer and business value**
+**Defines what should be built to deliver customer and business value** *(also referred to as Product Lead)*
 
 - Defines problem statements and success metrics
 - Prioritizes the roadmap and backlog
@@ -176,7 +176,7 @@ Our projects follow a five-phase lifecycle:
 | Meeting | Frequency | Participants | Purpose |
 |---------|-----------|--------------|---------|
 | PM + PdM Sync | Weekly | PM, Product Manager | Alignment on priorities, risks, decisions |
-| Daily Standup | Daily (15 min) | Delivery team | Progress, blockers, dependencies |
+| Team Standup | Daily or twice-weekly (as agreed) | Delivery team | Progress, blockers, dependencies |
 | Delivery Sync | Weekly | Delivery team, PM | Show progress, updates, flagged risks |
 | Demo/Review | End of sprint | Team + stakeholders | Demonstrate completed work |
 | Stakeholder Updates | Monthly | PM, stakeholders | Project status and upcoming milestones |
