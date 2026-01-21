@@ -69,6 +69,27 @@ Our project management approach is built on these foundational principles:
 - Report issues and track resolution
 - Collaborate on test automation
 
+### Business Analyst
+**Bridge the gap between business and technical teams**
+
+- Gather and refine requirements from stakeholders
+- Translate business needs into actionable user stories
+- Support UAT planning and execution
+
+### Change Manager
+**Coordinate project changes and assess impacts**
+
+- Evaluate change requests and their impacts
+- Document and communicate changes to stakeholders
+- Maintain project stability while enabling adaptations
+
+### Release Coordinator
+**Manage deployment activities and release readiness**
+
+- Plan and schedule releases
+- Verify pre-release requirements are met
+- Coordinate deployment communications
+
 ### Stakeholders
 **Provide inputs, feedback, and approvals**
 
@@ -76,7 +97,7 @@ Our project management approach is built on these foundational principles:
 - Make key decisions and remove obstacles
 - Stay informed through regular updates
 
-📖 [Learn more about roles and personas →](octoacme-roles-and-personas.md)
+📖 [Learn more about all roles and personas →](octoacme-roles-and-personas.md)
 
 ## Project Lifecycle
 
@@ -241,11 +262,14 @@ Throughout a project, teams maintain these key documents:
 ## Additional Resources
 
 - [Project Management Overview](octoacme-project-management-overview.md) - Concise introduction to our approach
-- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions
+- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions including new personas
+- [Stakeholder Responsibility Matrix](octoacme-stakeholder-responsibility-matrix.md) - RACI matrix for clear accountability
 - [Project Initiation](octoacme-project-initiation.md) - How to start a new project
 - [Project Planning](octoacme-project-planning.md) - Planning process and templates
 - [Execution and Tracking](octoacme-execution-and-tracking.md) - Day-to-day execution guidance
 - [Release and Deployment](octoacme-release-and-deployment.md) - Release process and checklists
+- [Release Readiness Checklist](octoacme-release-readiness-checklist.md) - Comprehensive pre-release verification
+- [Change Management Process](octoacme-change-management-process.md) - Structured approach for managing changes
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and improvement practices
 - [Risk Management and Communication](octoacme-risks-and-communication.md) - Risk and stakeholder communication
 
